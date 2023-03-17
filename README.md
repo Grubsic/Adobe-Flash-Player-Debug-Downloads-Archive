@@ -4,15 +4,15 @@ This is a recopilation of the files provided by the Adobe Flash dead website htt
 ---
 
 ### **Windows**
-:arrow_down: Download the Flash Player projector content debugger
-:arrow_down: Download the Flash Player projector
+:arrow_down: Download the Flash Player projector content debugger  
+:arrow_down: Download the Flash Player projector  
 
 ### **Macintosh**
-:arrow_down: Download the Flash Player projector content debugger
+:arrow_down: Download the Flash Player projector content debugger  
 :arrow_down: Download the Flash Player projector
 
 ### **Linux**
-:arrow_down: Download the Flash Player projector content debugger (64-bit)
+:arrow_down: Download the Flash Player projector content debugger (64-bit)  
 :arrow_down: Download the Flash Player projector (64-bit)
 
 ### **PlayerGlobal (.swc)**
