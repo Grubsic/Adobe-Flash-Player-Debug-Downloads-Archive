@@ -1,7 +1,9 @@
-# Adobe Flash Player Debug Downloads Archive
-This is a recopilation of the files provided by the Adobe Flash dead website https://www.adobe.com/support/flashplayer/downloads.html
+<p align="center">
+  <img src="https://github.com/Grubsic/Adobe-Flash-Player-Debug-Downloads-Archive/blob/main/Images/Adobe_Flash_Player_32.svg" alt="Adobe Flash Logo" width="250" />
+</p>
 
----
+# <p align="center">Adobe Flash Player Debug Downloads Archive</p>
+This is a recopilation of the files provided by the Adobe Flash dead website https://www.adobe.com/support/flashplayer/downloads.html  
 
 ### **Windows**
 :arrow_down: [Download the Flash Player projector content debugger](https://github.com/Grubsic/Adobe-Flash-Player-Debug-Downloads-Archive/raw/main/Windows/flashplayer_32_sa_debug.exe)  
