@@ -3,7 +3,7 @@
 </p>
 
 # <p align="center">Adobe Flash Player Debug Downloads Archive</p>
-This is a recopilation of the files provided by the Adobe Flash dead website https://www.adobe.com/support/flashplayer/downloads.html  
+This is a recopilation of the lastest files provided by the Adobe Flash dead website https://www.adobe.com/support/flashplayer/downloads.html  
 
 ### **Windows**
 :arrow_down: [Download the Flash Player projector content debugger](https://github.com/Grubsic/Adobe-Flash-Player-Debug-Downloads-Archive/raw/main/Windows/flashplayer_32_sa_debug.exe)  
