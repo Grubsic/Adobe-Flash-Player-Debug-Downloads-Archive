@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Grubsic/Adobe-Flash-Player-Debug-Downloads-Archive/blob/main/Images/Adobe_Flash_Player_32.svg" alt="Adobe Flash Logo" width="250" />
+  <img src="https://raw.githubusercontent.com/Grubsic/Adobe-Flash-Player-Debug-Downloads-Archive/refs/heads/main/Images/Adobe_Flash_Player_32.svg" alt="Adobe Flash Logo" width="250" />
 </p>
 
 # <p align="center">Adobe Flash Player Debug Downloads Archive</p>
